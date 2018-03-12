@@ -1,4 +1,3 @@
 # client config file
 ---
-key:
-  lucky-word: debayan
+lucky-word: debayan
